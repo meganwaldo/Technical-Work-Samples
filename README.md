@@ -1,2 +1,2 @@
 # Masters-Program-Work
-Coding examples from graduate school
+Machine learning example code for predicting median income from a California housing dataframe.
