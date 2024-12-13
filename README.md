@@ -1,2 +1,2 @@
-# Masters-Program-Work
-Machine learning example code for predicting median income from a California housing dataframe.
+# MS Applied Economics Sample Work
+Coursework from Johns Hopkins University, Machine Learning in Statistics, Fall 2022.
